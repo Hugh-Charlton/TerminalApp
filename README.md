@@ -35,7 +35,7 @@ After starting to desgin a quiz in this fashion I switched over to the more educ
 
 This results in less replayability of the quiz. So I thought of adding a feature where users could add their own quizzes but this just reverts the app back to the general knowledge based quiz with low order thinking skills.  The inital rounds were reduced from 6 to 3 and the questions reduced from 10 to ~5 as it became quite hard to design questions that would both adhere to the syllabuses and Bloom's Taxonomy.
 
-![Image](docs/FlowChart.png)
+![Image](./docs/FlowChart.png)
 
 ### Statement of Purpose
 
