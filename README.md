@@ -2,6 +2,8 @@
 
 https://trello.com/b/6nrvfoDr/terminal
 
+https://github.com/Hugh-Charlton/TerminalApp.git
+
 I started with the general idea of a trivia game to begin with, however it lacked a lot of direction.  There was a lot brainstormed features that could fit into a trivia app but my design lacked a theme.  I settled on the idea Quiz Wiz after starting to design a general trivia quiz that would have randomised questions drawing on general knowledge.  Quiz Wiz differes from this as it is targeted at a specific audience and uses the NESA NSW school syllabuses and Bloom's Taxonomy to draw inspiration for the conetent and design on the quiz.
 
 ## Sotware Development Plan
@@ -35,7 +37,7 @@ After starting to desgin a quiz in this fashion I switched over to the more educ
 
 This results in less replayability of the quiz. So I thought of adding a feature where users could add their own quizzes but this just reverts the app back to the general knowledge based quiz with low order thinking skills.  The inital rounds were reduced from 6 to 3 and the questions reduced from 10 to ~5 as it became quite hard to design questions that would both adhere to the syllabuses and Bloom's Taxonomy.
 
-![Flow Chart](/docs/FlowChart.png)
+![Flow Chart](docs/FlowChart.png)
 
 ### Statement of Purpose
 
