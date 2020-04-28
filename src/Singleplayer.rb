@@ -149,6 +149,7 @@ puts "[0] Back".colorize(:red)
         if @r1_score >= @points
             puts "#{@score}".colorize(:green)
             puts "Well done! You passed."
+            @continue = true
         else
             puts "#{@score}".colorize(:red)
             puts "Oh no you didn't score high enough for this round, sorry.  Better luck next time"
