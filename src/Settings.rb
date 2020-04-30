@@ -16,7 +16,6 @@ print "#{@timer}s".colorize(:light_blue)
 print " | Round Pass/Fail = "
 puts "#{@points}
 ".colorize(:light_blue)
-
 print "[1] ".colorize(:light_blue)
 puts "Timer"
 print "[2] ".colorize(:light_blue)
@@ -27,8 +26,8 @@ puts "[0] Back".colorize(:red)
 
             if s_input == "1" || s_input == "timer"
                 system "clear"
-                puts "What would you like to set the timer per question to be?"
-
+                puts "What would you like to set the timer per question to be?
+"
                 print "[1] ".colorize(:green)
                 puts "Easy (60)"
                 print "[2] ".colorize(:yellow)

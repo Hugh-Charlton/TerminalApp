@@ -396,6 +396,8 @@ The first stage is called: ".colorize(:light_blue)
                     end
                 end
 
+                # Check for bonus marks for 100% of question 3 being correct
+
                 if full_marks == 4
                     @bonus_score += 10
                 end
